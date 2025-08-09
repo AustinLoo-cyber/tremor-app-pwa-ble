@@ -1,0 +1,23 @@
+    Proprietary Software License
+
+    Copyright (c) [2025] [Austin Loo]. All Rights Reserved.
+
+    This software and its associated documentation files (the "Software") are
+    the exclusive property of [Austin Loo]. All intellectual property
+    rights, including copyrights, patents, trademarks, and trade secrets,
+    in and to the Software are owned by [Austin Loo].
+
+    Unauthorized copying, reproduction, modification, distribution, public display,
+    or any commercial use of the Software, in whole or in part, is strictly
+    prohibited without the express prior written permission of [Austin Loo].
+
+    This Software is provided "AS IS", without warranty of any kind, express or
+    implied, including but not limited to the warranties of merchantability,
+    fitness for a particular purpose and non-infringement. In no event shall the
+    author or copyright holder be liable for any claim, damages or other
+    liability, whether in an action of contract, tort or otherwise, arising from,
+    out of or in connection with the Software or the use or other dealings in
+    the Software.
+
+    For permissions or licensing inquiries, please contact:
+    [austin.ljc0303@gmail.com]
